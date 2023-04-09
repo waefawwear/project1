@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: db3a5729b96d27e4581a2bd854787c95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - data: {instanceID: 0}
+  - minimapIndicator: {fileID: 7092269393618137704, guid: 35daf32f754afd14ab76ef2800962f80, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

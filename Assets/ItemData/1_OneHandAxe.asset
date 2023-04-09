@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1a7e0d77002f164089a4c1ad2b2101a, type: 3}
+  m_Name: 1_OneHandAxe
+  m_EditorClassIdentifier: 
+  id: 1
+  itemName: "\uBA54\uC774\uC2A4"
+  itemIcon: {fileID: 21300000, guid: 13bcbe99f3f0c3c48837a45455d75f24, type: 3}
+  prefab: {fileID: 6231325237256774667, guid: d28dc89304cefd64f9be1c63c21103d1, type: 3}
+  value: 1000
+  maxStackCount: 1
+  isWeapon: 1
+  attackPower: 50
+  attackSpeed: 1
